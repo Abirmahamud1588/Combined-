@@ -117,15 +117,83 @@ header{
 }
 
 
+.mcard img{
+    
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    overflow: hidden;
+    transition-duration: 1.2s;
+}
+.mcard .imgcustom{
+    overflow: hidden;
+    width: 100%;
+height: 250px;
+}
+.mcard img:hover{
+   transform: scale(2.0); 
+    
+    
+   /*! transition-duration: 0.5; */
+}
+.mcard h5{
+    
+    color: #3b506c;
+    font-size: 22px;
+    padding: 7px;
+    margin: 4px 0px;
+    display: block;
+    font-weight: 600;
+    text-align: start;
+}
+.mcard span{
+    
+    font-size: 16px;
+    color: #f3960a;
+    font-weight: 700;
+    padding-left: 10px;
+}
+.mcard a{
+    
+}
+.mcard i{
+    
+    color: #f3960a;
+}
 
 
+.mcard b{
+    
+    display: block;
+    padding-left: 10px;
+    color: #3b506c;
+    margin: 6px 0px;
+}
 
+.mcard a{
+    
+}
 
+.btn-co {
+    background: #ffe799;
+    padding: 3px 3px;
+    margin-left: 7px;
+    border-radius: 20px;
+    border: 1px solid #f3960a;
+    box-shadow: 0px 1px 2px #f3960a;
+}
 
-
-
-
-
+.mcard {
+    box-shadow: 0px 5px 10px #35363a;
+    box-sizing: border-box;
+    padding: 2px;
+    margin: 15px 0px;
+    overflow: hidden;
+}
+footer{
+    background: black;
+    height: 500px;
+}
 
 
 
