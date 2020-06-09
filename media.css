@@ -1,0 +1,101 @@
+@media(max-width: 1199px){
+    
+   
+}
+    
+    
+
+@media(max-width:991px){
+ 
+}
+@media(max-width:767px){
+    .sidebar{
+        display: none;
+    }
+    .postagain h1 {
+    font-size: 25px;
+    font-weight: 600;
+}
+   .blog {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-bottom: 1px solid #35363a54;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 80px;
+} 
+    
+   .postagain p {
+    font-size: 12px;
+    line-height: 1.8;
+    color: #35363a;
+    font-weight: 600;
+    margin: 7px 0px;
+} 
+ .postagain {
+    text-align: justify;
+    padding: 0px;
+    padding: none;
+}   
+    
+    
+    
+    
+    
+    
+    
+    
+}
+@media(max-width:575px ){
+ 
+     .sidebar{
+        display: none;
+    }
+    .postagain h1 {
+    font-size: 17px;
+    font-weight: 600;
+}
+ .blog {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-bottom: 1px solid #35363a54;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 80px;
+}   
+   .postagain p {
+    font-size: 12px;
+    line-height: 1.8;
+    color: #35363a;
+    font-weight: 600;
+    margin: 7px 0px;
+} 
+ .postagain {
+    text-align: justify;
+    padding: 0px;
+    padding: none;
+}   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}

@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+body{
+    
+    font-family: 'Quicksand', sans-serif;
+}
+
+.rounded-pill{
+border-radius:30px;     
+}
+.dropdown-item {
+   
+    color: black;
+    background-color: white;
+
+}   
+a{
+    text-decoration: none;
+    
+    color: #7F7F7F;
+}
+a:hover {
+    color: #0056b3;
+    text-decoration: none;
+}
+.sidebar a:hover{
+    color: #0C66FF;
+    text-decoration:none;
+   
+    
+}
+.sidebar h3{
+    font-size:25px;
+    color: #35363A;
+    font-weight: 800;
+}
+.sidebar a{
+    color: #35363A;
+    transition-duration: 0.51s;
+    display: block;
+}
+.sidebar a:hover{
+     transform: translate(5px); 
+}
+.sidebar {
+    padding: 80px 3px;
+   
+    overflow-x: hidden;
+    max-height: calc(100vh - 63px);
+    position: sticky;
+    top: 0;
+    margin-top: 60px;
+}
+
+blog{
+    
+}
+blog h1{
+    
+}
+blog p{
+    
+}
+.blog{
+
+    margin-top: 41px;
+    margin-bottom: 0px;
+    border-bottom: 1px solid #35363a54;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 80px;
+}
+.postagain{
+    
+}
+.postagain h1{
+    
+    font-size: 34px;
+    font-weight: 600;
+}
+.postagain a:hover{
+    
+    /*! transform: translate; */
+}
+.postagain a{
+    
+    border-bottom: 1px dotted #35363a;
+}
+.postagain span{
+    
+    font-size: 15px;
+    color: #35363a;
+    font-weight: 500;
+    padding: 0px 8px;
+}
+.postagain p{
+    
+    font-size: 15px;
+    line-height: 1.8;
+    color: #35363a;
+    font-weight: 400;
+}
+.postagain img{
+    
+    width: 18px;
+    height: 18px;
+    border-radius: 24px;
+    /*! padding: 16px 11px; */
+    margin: 0px 11px;
+}
+
+article{
+    
+    
+}
+header{
+    
+}
+
+
+.mcard img{
+    
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    overflow: hidden;
+    transition-duration: 1.2s;
+}
+.mcard .imgcustom{
+    overflow: hidden;
+    width: 100%;
+height: 250px;
+}
+.mcard img:hover{
+   transform: scale(2.0); 
+    
+    
+   /*! transition-duration: 0.5; */
+}
+.mcard h5{
+    
+    color: #3b506c;
+    font-size: 22px;
+    padding: 7px;
+    margin: 4px 0px;
+    display: block;
+    font-weight: 600;
+    text-align: start;
+}
+.mcard span{
+    
+    font-size: 16px;
+    color: #f3960a;
+    font-weight: 700;
+    padding-left: 10px;
+}
+.mcard a{
+    
+}
+.mcard i{
+    
+    color: #f3960a;
+}
+
+
+.mcard b{
+    
+    display: block;
+    padding-left: 10px;
+    color: #3b506c;
+    margin: 6px 0px;
+}
+
+.mcard a{
+    
+}
+
+.btn-co {
+    background: #ffe799;
+    padding: 3px 3px;
+    margin-left: 7px;
+    border-radius: 20px;
+    border: 1px solid #f3960a;
+    box-shadow: 0px 1px 2px #f3960a;
+}
+
+.mcard {
+    box-shadow: 0px 5px 10px #35363a;
+    box-sizing: border-box;
+    padding: 2px;
+    margin: 15px 0px;
+    overflow: hidden;
+}
+footer{
+    background: black;
+    height: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
