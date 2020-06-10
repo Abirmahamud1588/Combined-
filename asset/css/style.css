@@ -359,7 +359,7 @@ height: 250px;
 }
 .fot1 h1{
     
-    color: #f3960a;
+    color: #3b506c;
     font-size: 30px;
     font-weight: 700;
 }
@@ -367,7 +367,7 @@ height: 250px;
     
     display: block;
     padding: 3px 0px;
-    color: #3b506c;
+    color: #f3960a;
     font-size: 17px;
     font-weight: 700;
 }
@@ -376,7 +376,7 @@ height: 250px;
 }
 .fot2 h1{
     
-    color: #f3960a;
+    color: #3b506c;
     font-size: 30px;
     font-weight: 700;
 }
@@ -393,6 +393,7 @@ footer{
     padding: 16px;
     margin-bottom: 12px;
     border-top: 1px solid #3b506c;
+   background: #f1ebeb05;
 }
 
 
