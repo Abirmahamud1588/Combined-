@@ -388,14 +388,24 @@ height: 250px;
     text-align: center;
 }
 footer{
-    
-   #fff
-    padding: 16px;
-    margin-bottom: 12px;
-    border-top: 1px solid #3b506c;
-   background: #f1ebeb05;
+     background: #f0f0f029;   margin-top: 70px; 
+     border-top: 1px solid #3b506c;
+    }
+.f1{
+    height: 100px;
+}
+.f1 a{
+    color: #3b506c;
+padding: 10px;
 }
 
+.f2 p {
+    padding-top: 11px;
+}
+    
+    .f2 a {
+    padding-top: 11px;
+}
 
 
 
