@@ -387,9 +387,11 @@ height: 250px;
     height: 30px;
     text-align: center;
 }
- footer{
-     background: #f0f0f0;   margin-top: 70px; 
-    }
+ footer {
+    background: #ece2e205;
+    margin-top: 70px;
+    border-top: 1px solid #3b506c;
+}
 .f1{
     height: 100px;
 }
