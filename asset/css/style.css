@@ -359,7 +359,7 @@ height: 250px;
 }
 .fot1 h1{
     
-    color: #3b506c;
+    color: #f3960a;
     font-size: 30px;
     font-weight: 700;
 }
@@ -367,7 +367,7 @@ height: 250px;
     
     display: block;
     padding: 3px 0px;
-    color: #f3960a;
+    color: #3b506c;
     font-size: 17px;
     font-weight: 700;
 }
@@ -376,7 +376,7 @@ height: 250px;
 }
 .fot2 h1{
     
-    color: #3b506c;
+    color: #f3960a;
     font-size: 30px;
     font-weight: 700;
 }
@@ -387,15 +387,14 @@ height: 250px;
     height: 30px;
     text-align: center;
 }
-footer{
-     background: #f0f0f029;   margin-top: 70px; 
-     border-top: 1px solid #3b506c;
+ footer{
+     background: #f0f0f0;   margin-top: 70px; 
     }
 .f1{
     height: 100px;
 }
 .f1 a{
-    color: #3b506c;
+    color: black;
 padding: 10px;
 }
 
@@ -406,8 +405,6 @@ padding: 10px;
     .f2 a {
     padding-top: 11px;
 }
-
-
 
 
 

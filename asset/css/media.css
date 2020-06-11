@@ -82,9 +82,24 @@
 } 
     
     
+    footer{
+     background: #f0f0f0;   margin-top: 70px; 
+    }
+.f1{
+    height: 100px;
+}
+.f1 a{
+    color: black;
+padding: 10px;
+}
+
+.f2 p {
+    padding-top: 11px;
+}
     
-    
-    
+    .f2 a {
+    padding-top: 11px;
+}
     
     
     
